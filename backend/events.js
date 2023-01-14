@@ -2,18 +2,18 @@ module.exports = [
     {
       id: 1,
       title: 'Docker Workshop',
-      detail: 'Linuxing in London ',
-      date: '2017-11-21'
+      detail: 'New Workshop for docker Tutorial',
+      date: '2023-04-21'
     },
     {
       id: 2,
-      title: 'WinOps #17',
-      detail: 'WinOps London',
-      date: '2017-11-21'
+      title: 'PostgreSQL #17',
+      detail: 'Zero to Hero Tutorial',
+      date: '2023-03-21'
     },
     {
       id: 3,
-      title: 'Docker London',
-      date: '2017-11-13'
+      title: 'Git and Github',
+      date: '2023-04-13'
     }
   ];
